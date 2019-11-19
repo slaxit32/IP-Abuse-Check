@@ -4,16 +4,16 @@ This application grab IP addresses from a file and give abuse information of tha
 
 ***** Running Requirement:
 
-• Python 3
+    • Python 3
 
 ***** Library Requirements:
 
 Use pip (pip3) to install following libraries. (eg. pip install requests )
 
-• requests
-• json
-• re
-• prettytable
+    • requests
+    • json
+    • re
+    • prettytable
 
 ***** API Requirements
 
